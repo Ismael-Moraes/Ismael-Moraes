@@ -1,9 +1,9 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=sans+serif&weight=75&size=30&duration=4000&pause=1000&color=6400DC&random=false&width=435&lines=OL%C3%A1%2C+meu+nome+%C3%A9+Ismael" alt="Typing SVG" /></a><br>
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Ismael-Moraes&theme=radical" alt="GitHub Streak" /></a><br>
+- ⚡ - Estudante de Análise e Desenvolvimento de Sistemas
 - ⚡ - Estudando atualmente MySQL e Python
 - ⚡ - Estou desbravando o mundo
 <img style="display: block;-webkit-user-select: none;margin: auto; margin-bottom: -50px; background-color: hsl(0, 0%, 90%);" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 
 ## Linguagens:
 <div style="display: inline_block">
@@ -28,4 +28,6 @@
 <div style="display: inline_block">
   <img align="center" alt="Ismael-VS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
   <img align="center" alt="Ismael-Windows" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows8/windows8-original.svg" />
+  <img align="center" alt="Ismael-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+  <img align="center" alt="Ismael-Vercel" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg" />
 </div>
