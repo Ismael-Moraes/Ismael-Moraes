@@ -24,10 +24,11 @@
   
 </div>
 
-## Work in
+## Working with
 <div style="display: inline_block">
   <img align="center" alt="Ismael-VS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
   <img align="center" alt="Ismael-Windows" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows8/windows8-original.svg" />
+  <img align="center" alt="Ismael-Github" height="30" width="30" src="https://github.com/Ismael-Moraes/Ismael-Moraes/assets/145150894/07a8a277-d8ac-4d50-bece-9df109e28218" />
   <img align="center" alt="Ismael-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
   <img align="center" alt="Ismael-Vercel" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg" />
 </div>
